@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [amarjeet.netlify.com](amarjeet.netlify.com)
+- 👨‍💻 All of my projects are available at [https://amarjeet.netlify.app](amarjeet.netlify.com)
 
 - 💬 Ask me about **React, Redux**
 
