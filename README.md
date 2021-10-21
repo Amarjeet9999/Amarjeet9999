@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://amarjeet.netlify.app](amarjeet.netlify.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://amarjeet.netlify.app)
 
 - 💬 Ask me about **React, Redux**
 
 - 📫 How to reach me **amarjeetyt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wbid2Eo9y8N3CmztWwx2YhtbAlvq81iO/view?usp=drivesdk](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wbid2Eo9y8N3CmztWwx2YhtbAlvq81iO/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
