@@ -42,7 +42,8 @@
       <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next.svg" alt="next.js" width="40" height="40"/> </a>  
 </p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjeet9999&show_icons=true&locale=en&layout=compact" alt="amarjeet9999" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjeet9999&show_icons=true&locale=en&layout=compact" alt="amarjeet9999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjeet9999&show_icons=true&locale=en" alt="amarjeet9999" /></p>
 
