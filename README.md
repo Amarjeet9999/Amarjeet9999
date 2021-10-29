@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
+<p align= "center">
+
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+</p>
+
 
 - 🌱 I’m currently learning **Next Js**
 
