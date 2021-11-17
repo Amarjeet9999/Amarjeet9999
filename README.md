@@ -1,4 +1,6 @@
-<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="1000px"/>
+<p align="center">
+    <img src="https://coindsyz.com/wp-content/uploads/2021/05/1584023795.gif" width="60%" title="Intro Card" alt="Intro Card">
+  </p>
 <h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
@@ -21,6 +23,10 @@
 - 📫 How to reach me **amarjeetyt@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wbid2Eo9y8N3CmztWwx2YhtbAlvq81iO/view?usp=drivesdk)
+
+- 🥅 *2021 Goals :* Learning new things and contribute more
+
+- 📫 You can reach me at [chat](https://www.linkedin.com/in/amarjeetlinkedl/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
