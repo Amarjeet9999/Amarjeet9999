@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **amarjeetyt@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wbid2Eo9y8N3CmztWwx2YhtbAlvq81iO/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EYxSh-yst_JJrB3fmycfWa0Q4ztExuLg/view?usp=sharing)
 
 - 🥅 *2021 Goals :* Learning new things and contribute more
 
