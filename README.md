@@ -1,3 +1,4 @@
+<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="1000px"/>
 <h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
