@@ -2,7 +2,7 @@
     <img src="https://coindsyz.com/wp-content/uploads/2021/05/1584023795.gif" width="60%" title="Intro Card" alt="Intro Card">
   </p>
 <h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate Full-stack web developer from India</h3>
 
 <p align= "center">
 
