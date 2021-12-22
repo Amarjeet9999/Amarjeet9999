@@ -14,11 +14,11 @@
 </p>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently started learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amarjeet.netlify.app)
 
-- 💬 Ask me about **React, Redux**
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **amarjeetyt@gmail.com**
 
